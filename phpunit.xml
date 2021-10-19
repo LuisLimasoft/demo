@@ -1,0 +1,3 @@
+<testsuite name="sample">
+    <directory suffix=".test.php">./tests</directory>
+</testsuite>
