@@ -1,5 +1,8 @@
 {
+    "name": "luis-limasoft/demo-composer",
+    "description": "A Demo",
     "require": {
+        "php": ">=7.4",
         "phpunit/phpunit": "^9.5"
     },
     "autoload": {
