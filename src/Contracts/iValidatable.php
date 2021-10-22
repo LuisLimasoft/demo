@@ -1,5 +1,5 @@
 <?php
-namespace App\Contracts;
+namespace LuisLimasoft\DemoComposer\Contracts;
 
 interface iValidatable
 {

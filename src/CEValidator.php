@@ -1,8 +1,8 @@
 <?php
 namespace App;
 
-use App\Exceptions\CEInvalidoException;
-use App\Exceptions\CantidadDigitosInvalidosCEException;
+use LuisLimasoft\DemoComposer\Exceptions\CEInvalidoException;
+use LuisLimasoft\DemoComposer\Exceptions\CantidadDigitosInvalidosCEException;
 
 class CEValidator
 {

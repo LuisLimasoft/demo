@@ -1,10 +1,10 @@
 <?php
 
-use App\CEValidator;
+use LuisLimasoft\DemoComposer\CEValidator;
 use PHPUnit\Framework\TestCase;
-use App\Exceptions\CEInvalidoException;
-use App\Exceptions\CantidadDigitosInvalidosException;
-use App\Exceptions\CantidadDigitosInvalidosCEException;
+use LuisLimasoft\DemoComposer\Exceptions\CEInvalidoException;
+use LuisLimasoft\DemoComposer\Exceptions\CantidadDigitosInvalidosException;
+use LuisLimasoft\DemoComposer\Exceptions\CantidadDigitosInvalidosCEException;
 
 class CEValidatorTest extends TestCase
 {

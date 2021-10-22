@@ -1,5 +1,5 @@
 <?php
-namespace App\Exceptions;
+namespace LuisLimasoft\DemoComposer\Exceptions;
 
 class CantidadDigitosInvalidosException extends \Exception
 {

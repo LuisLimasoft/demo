@@ -1,8 +1,8 @@
 <?php
-namespace App;
+namespace LuisLimasoft\DemoComposer;
 
-use App\Exceptions\DigitosInvalidosException;
-use App\Exceptions\CantidadDigitosInvalidosException;
+use LuisLimasoft\DemoComposer\Exceptions\DigitosInvalidosException;
+use LuisLimasoft\DemoComposer\Exceptions\CantidadDigitosInvalidosException;
 
 class Validator
 {

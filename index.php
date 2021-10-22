@@ -2,10 +2,10 @@
 
 require 'vendor/autoload.php';
 
-use App\Validator;
-use App\CEValidator;
-use App\Exceptions\CEInvalidoException;
-use App\Exceptions\CantidadDigitosInvalidosException;
+use LuisLimasoft\DemoComposer\Validator;
+use LuisLimasoft\DemoComposer\CEValidator;
+use LuisLimasoft\DemoComposer\Exceptions\CEInvalidoException;
+use LuisLimasoft\DemoComposer\Exceptions\CantidadDigitosInvalidosException;
 
 $documentos = [
     'CE1234567891011',

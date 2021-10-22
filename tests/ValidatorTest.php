@@ -1,9 +1,9 @@
 <?php
 
-use App\Validator;
+use LuisLimasoft\DemoComposer\Validator;
 use PHPUnit\Framework\TestCase;
-use App\Exceptions\DigitosInvalidosException;
-use App\Exceptions\CantidadDigitosInvalidosException;
+use LuisLimasoft\DemoComposer\Exceptions\DigitosInvalidosException;
+use LuisLimasoft\DemoComposer\Exceptions\CantidadDigitosInvalidosException;
 
 class ValidatorTest extends TestCase
 {
