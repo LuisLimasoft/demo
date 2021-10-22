@@ -10,7 +10,7 @@
          processIsolation="false"
          stopOnFailure="false">
     <testsuites>
-        <testsuite name=" Test ">
+        <testsuite name=" Test Limasoft ">
             <directory>tests</directory>
                 </testsuite>
     </testsuites>
